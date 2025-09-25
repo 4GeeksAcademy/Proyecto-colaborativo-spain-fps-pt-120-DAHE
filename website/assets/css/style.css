@@ -1,3 +1,7 @@
 body{
     background: #BDBDBD;
 }
+
+.image-position-pers, .first-heading-pers {
+    object-position: top;
+}
